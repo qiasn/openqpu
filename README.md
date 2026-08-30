@@ -1,5 +1,7 @@
 # openqpu
-A project of open design like RISC-V but for quantum (non-classical) processing unit
+A project of open design like RISC-V but for quantum (non-classical) processing unit.
+
+OpenQPU is an open quantum computing architecture supporting both open and independently developed physical implementations. The term “OpenQPU” refers to the openness of the architecture and contributed project materials; it does not imply that every compatible physical technology is free of third-party patent rights.
 
 📦 Featured Open-Source Projects
 
